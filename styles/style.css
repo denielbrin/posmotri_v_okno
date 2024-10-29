@@ -158,6 +158,8 @@ ol {
   white-space: nowrap;
 }
 
+/* поле для воода текста */
+
 .search-form__fieldset {
   border: none;
 }
@@ -176,8 +178,6 @@ ol {
 .search-form__fieldset-title {
   margin-bottom: 5px;
 }
-
-/* поле для воода текста */
 
 .search-form__textfield {
 width: 225px;
@@ -322,7 +322,6 @@ background-color: #545050;
   outline: 1px solid white;
   outline-offset: 1px;
 }
-
 
 
 
