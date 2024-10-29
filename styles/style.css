@@ -158,12 +158,11 @@ ol {
   white-space: nowrap;
 }
 
-/* поле для воода текста */
+/* поле для ввода текста */
 
 .search-form__fieldset {
   border: none;
 }
-
 
 .search-form__label {
  display: flex;
@@ -187,13 +186,11 @@ border-top: 1px solid white;
 border-bottom: 1px solid white;
 border-right: 0px;
 border-left: 0px;
-
 font-family: Fira Sans Condensed;
 font-size: 18px;
 font-weight: 400;
 line-height: 21.6px;
 padding: 0px;
-
 appearance: none;
 }
 
