@@ -311,6 +311,10 @@ background-color: #545050;
   text-decoration: underline;
 }
 
+.content__card-link:active {
+  background-color: #545050;
+}
+
 .content__card-link:focus {
   outline: none;
  }
