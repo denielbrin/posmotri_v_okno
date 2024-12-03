@@ -1,1 +1,3 @@
-https://github.com/denielbrin/posmotri_v_okno
+Опубликованный проект:
+
+https://denielbrin.github.io/posmotri_v_okno/
